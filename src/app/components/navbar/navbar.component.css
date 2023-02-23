@@ -1,0 +1,32 @@
+.navbar
+{
+  background-color: #171018;
+}
+
+.navHome,
+.navAboutMe,
+.navProjects,
+.navContact
+{
+  color:#9d9099;
+}
+
+.navHome:hover,
+.navAboutMe:hover,
+.navProjects:hover,
+.navContact:hover
+{
+  color:#645155;
+  opacity: 2;
+}
+
+.navHome.active
+{
+  color:#645155;
+}
+
+
+.navbar-toggler-icon
+{
+  color:#9d9099;
+}
