@@ -1,0 +1,36 @@
+*
+{
+  color: #8c8586;
+}
+
+.logoApt
+{
+  width: 250px;
+  height: 250px;
+  align-self: center;
+}
+
+.logoApt:hover
+{
+  transform: scale(1.2);
+}
+
+.ladoDerecho
+{
+  text-align: center;
+}
+
+.nombreMapt
+{
+  font-size: 30px;
+  font-weight: 900;
+  text-transform:capitalize;
+  color:#9D9099 ;
+  
+}
+
+.frontEnd
+{
+  font-size: 25px;
+  text-transform: capitalize;
+}
